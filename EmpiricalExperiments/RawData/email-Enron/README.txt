@@ -1,0 +1,1 @@
+This data is taken from https://www.cs.cornell.edu/~arb/data/email-Enron/

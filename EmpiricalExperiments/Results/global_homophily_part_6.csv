@@ -1,0 +1,2 @@
+,dataset,observed_proportion,closed_baseline,node_baseline,simplicial_ratio,hypergraph_ratio,"number filled (hom, total)","number closed (hom, total)"
+0,email-Enron,0.4930139720558882,0.4657335907335907,0.41248894967094574,1.0585750778236274,1.1952174050945596,"(247, 501)","(1930, 4144)"

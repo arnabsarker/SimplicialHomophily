@@ -1,0 +1,2 @@
+,dataset,observed_proportion,closed_baseline,node_baseline,simplicial_ratio,hypergraph_ratio,"number filled (hom, total)","number closed (hom, total)"
+0,bills-senate,0.44421162912519646,0.3690762724113444,0.24029669114414876,1.2035767735025564,1.84859652877502,"(5088, 11454)","(58730, 159127)"

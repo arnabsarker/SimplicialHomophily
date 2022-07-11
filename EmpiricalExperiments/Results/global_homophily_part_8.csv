@@ -1,0 +1,2 @@
+,dataset,observed_proportion,closed_baseline,node_baseline,simplicial_ratio,hypergraph_ratio,"number filled (hom, total)","number closed (hom, total)"
+0,bills-house,0.5013628821995734,0.5314008743584869,0.25171507949914745,0.9434739504424494,1.9917872349847496,"(8461, 16876)","(55914, 105220)"

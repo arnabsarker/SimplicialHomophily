@@ -1,0 +1,1 @@
+This data can be found at https://www.cs.cornell.edu/~arb/data/trivago-clicks/

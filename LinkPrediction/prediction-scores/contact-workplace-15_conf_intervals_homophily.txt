@@ -1,0 +1,2 @@
+Dataset,HomophilyBoostrapSD
+cont-workplace-15,0.0010298372095489563
